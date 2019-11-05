@@ -8,3 +8,6 @@ console.log("Here should be no merge conflict");
 // demo for push pull operation
 
 //this is an edit.jpg
+
+// lots of fancy text here
+
